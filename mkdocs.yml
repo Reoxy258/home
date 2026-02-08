@@ -1,7 +1,7 @@
 site_name: ZJUCSSU
-site_url: https://ZJUCSSU.github.io/home/
-repo_url: https://github.com/ZJUCSSU/home/
-repo_name: ZJUCSSU/home
+site_url: https://zju-cssu-dev.github.io/home/
+repo_url: https://github.com/ZJU-CSSU-Dev/home
+repo_name: ZJU-CSSU-Dev/home
 site_description: Welcome to ZJUCSSU
 site_author: ZJUCSSU
 copyright: Copyright &copy; 2024 ZJUCSSU
@@ -162,10 +162,10 @@ extra: # 额外设定
   homepage: . # 左上角徽标链接的地址（此处为一个点，也就是主页）
   social: # 联系方式（页面右下角内容）
     - icon: fontawesome/brands/github # 图标（可以去官网看有哪些）
-      link: https://ZJUCSSU.github.io/home/ # 链接
+      link: https://zju-cssu-dev.github.io/home/ # 链接
       name: GitHub 仓库 # 提示词
     - icon: fontawesome/solid/house
-      link: https://github.com/ZJUCSSU/home/
+      link: https://github.com/ZJU-CSSU-Dev/home
       name: 主页
     - icon: fontawesome/solid/paper-plane
       link: mailto:1744523875@qq.com
@@ -233,6 +233,7 @@ plugins:
 nav:
   - 主页: index.md
   - 通知中心:
+      - 概览: Notification/index.md
       - 教学事务:
           - 选课补退选通知: Notification/Academic/CourseSelection.md
           - 培养计划与学分要求: Notification/Academic/StudyPlan.md
@@ -276,8 +277,10 @@ nav:
           - 心理健康讲座与活动: Notification/Growth/MentalHealth.md
           - 志愿者招募: Notification/Growth/Volunteer.md
   - 意见反馈:
+      - 概览: 意见反馈/index.md
       - 如何提交ISSUE: 意见反馈/ISSUE.md
   - 知识共享:
+      - 概览: 知识共享/index.md
       - 培养方案:
           - 计算机科学与技术: 知识共享/培养方案/CS/cs_site.md
           - 软件工程: 知识共享/培养方案/软件工程/se_site.md
@@ -287,6 +290,7 @@ nav:
       - 课程学习: 知识共享/课程笔记/example.md
       - 课外学习: 知识共享/课外学习/example.md
   - 资源分享:
+      - 概览: 资源分享/index.md
       - 个人笔记:
           - 笔记说明: 资源分享/个人笔记/example.md
       - 个人项目: 资源分享/个人项目/example.md

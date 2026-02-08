@@ -4,8 +4,10 @@
 
 # 本地构建指南
 
-0. 安装 python、git 等必要工具 
-   - 推荐使用 python 3.11 以保证稳定性，参考 https://devguide.python.org/versions/
+0. 安装必要工具  
+   - **git**：用于克隆仓库  
+   - **uv**：用于创建虚拟环境、安装依赖（[安装 uv](https://docs.astral.sh/uv/getting-started/installation/)）。uv 会自动管理 Python，无需单独安装。
+
 1. 将 repo 克隆到本地
 
 ```shell
@@ -15,19 +17,26 @@ git clone https://github.com/ZJU-CSSU-Dev/home.git
 git clone git@github.com:ZJU-CSSU-Dev/home.git
 ```
 
-2. 安装 python 依赖，包括 `mkdocs`、`mkdocs-material` 以及一些第三方插件
+2. 进入项目目录，用 uv 创建虚拟环境并安装依赖（含 `mkdocs`、`mkdocs-material` 及第三方插件）
 
 ```shell
 cd home
-pip install -r requirements.txt
+uv venv
+source .venv/bin/activate   # Windows: .venv\Scripts\activate
+uv pip install -r requirements.txt
 ```
 
-3. 启动 mkdocs 本地服务
+3. 启动 MkDocs 本地服务
 
 ```shell
+# 若已激活虚拟环境，直接执行：
 mkdocs serve
+
+# 未激活时也可用（uv 会自动使用项目虚拟环境 cssu）：
+uv run mkdocs serve
 ```
-   - 然后可以通过 localhost:8000 预览网站
+
+   在浏览器打开 **http://127.0.0.1:8000** 即可预览网站。
 
 
 
