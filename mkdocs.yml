@@ -232,6 +232,7 @@ plugins:
 
 nav:
   - 主页: index.md
+  - 网站介绍: intro.md
   - 通知中心:
       - 概览: Notification/index.md
       - 教学事务:
