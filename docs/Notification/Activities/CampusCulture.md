@@ -47,6 +47,14 @@ cards:
         class: tag-category
       - text: 2022级
         class: tag-target
+  
+  - ddl: 2026-03-27
+    title: 2026年度浙江大学思政微课大赛
+    detail: 请有意向参赛的同学于2026年3月27日23:59前将参赛报名表（附件1）、微课课件和微课视频、汇总表（附件2）打包发送至houyiting@zju.edu.cn，学院将择优推荐参赛。
+    href:  http://cspo.zju.edu.cn/2026/0306/c27178a3138040/page.htm
+    tags:
+      - text: 思政微课大赛
+        class: tag-category
 
 
 ---
