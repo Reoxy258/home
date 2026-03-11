@@ -8,8 +8,7 @@ cards:
       - text: 选课
         class: tag-category
       - text: 重要
-        class: tag-priority 
-cards:
+        class: tag-priority
   - ddl: 2026-01-03
     title: “通用英语能力提升”课程选课通知
     detail: 为助力学生全面提升英语综合能力，学校于2025-2026学年春学期新开设“通用英语能力提升”通识课程，课程面向大三年级及以上且英语水平测试未通过的本科学生，学生获得本课程学分后，可申请“通用英语能力提升”替换“英语水平测试”。详情请戳箭头。
