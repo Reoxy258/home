@@ -29,6 +29,17 @@ cards:
         class: tag-category
       - text: 志愿者
         class: tag-category
+
+cards:
+  - ddl: 2026-3-11
+    title: 2026届优秀本科毕业生拟评选名单
+    detail: 【本科评奖评优】计算机学院关于2026届优秀本科毕业生（含校级、省级）拟评选名单的公示
+    href: http://cspo.zju.edu.cn/2026/0309/c27183a3138621/page.htm
+    tags:
+      - text: 荣誉评选
+        class: tag-category
+      - text: 2022
+        class: tag-target
 ---
 
 

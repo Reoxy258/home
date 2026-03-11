@@ -7,6 +7,15 @@ cards:
     tags:
       - text: 暑研
         class: tag-category
+
+cards:
+  - ddl: 2023-3-14
+    title: 加州大学欧文分校本硕国际项目线上讲座
+    detail: 时间：3月14日（周六） 10:00-11:30 地点：腾讯线上会议：387 783 258
+    href: 
+    tags:
+      - text: 讲座
+        class: tag-category
 ---
 
 !!! note 通知
