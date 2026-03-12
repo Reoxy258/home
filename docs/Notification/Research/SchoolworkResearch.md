@@ -25,14 +25,14 @@ cards:
         class: tag-category
       - text: 通知
         class: tag-priority
-  - ddl: 2026-3-15
+  - ddl: 2026-03-15
     title: “中国高校计算机大赛-网络技术挑战赛”线上宣讲会
     detail: 2026年第十一届“中国高校计算机大赛-网络技术挑战赛”线上宣讲会，倒计时启动！
     href: https://mp.weixin.qq.com/s/40QUEaS7kyQsvCmVk1mIvw?from=singlemessage&scene=1&subscene=10000&sessionid=1773240950&clicktime=1773272809&enterid=1773272809&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=8165227-zh_CN-zip&fasttmpl_flag=0&realreporttime=1773272809652
     tags:
       - text: 竞赛
         class: tag-category
-  - ddl: 2026-3-27
+  - ddl: 2026-03-27
     title: 香港科技大学科研训练项目报名
     detail: 2026年香港大学暑期课程项目报名通知已发布，欢迎感兴趣的同学积极申报！
     href: http://www.isee.zju.edu.cn/2025/0307/c51199a3024852/page.psp

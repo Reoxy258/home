@@ -77,7 +77,7 @@ cards:
     tags:
       - text: 美育二课
         class: tag-category
-  - ddl: 2026-4-30
+  - ddl: 2026-04-30
     title: 2026年第一期心理促进训练营开始
     detail: 2026年第一期心理促进训练营开始啦！让我们赴一场春日心灵之约~
     href: https://mp.weixin.qq.com/s/eRYYi7Y3meykPFMjKdH1CA
