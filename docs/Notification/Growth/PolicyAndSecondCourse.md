@@ -84,6 +84,13 @@ cards:
     tags:
       - text: 二课
         class: tag-category
+  - ddl: 2026-03-17
+    titie: 形策观影活动
+    detail: 3月17日15:00-17:00将在曹东502开展形策观影活动，3月16日18:00报名开启！详见右侧推文
+    href: https://mp.weixin.qq.com/s/W6UHt2ymFc2BiKi40dLmFg
+    tags:
+      - text: 形策2
+        class: tag-category 
 ---
 
 !!! note 通知
