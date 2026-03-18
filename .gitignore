@@ -4,4 +4,4 @@ my_scripts/
 .venv/
 .vscode/
 .DS_Store
-_pycache_/
+__pycache__/
