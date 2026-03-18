@@ -1,7 +1,7 @@
 ---
 cards:  
-- ddl: 2026-03-18    
-title: 浙江大学计算机学院和软件学院2026年春季就业与实习招聘会    
+- ddl: 2026-03-21   
+title: 计院2026年春季就业与实习招聘会    
 detail: 50+顶尖企业面对面，实习/春招一步到位    
 href:  https://mp.weixin.qq.com/s/VMH6vfeY6BFRRshTazHJtg    
 tags:      
