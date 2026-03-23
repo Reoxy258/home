@@ -16,6 +16,15 @@ cards:
     tags:
       - text: 入伍
         class: tag-category
+  - ddl: 
+    title: 大学生志愿服务西部计划
+    detail: 请有意愿加入“西部计划”的同学加入钉钉内部群（171840011769），后续将开展相关宣讲！相关推文见右侧箭头
+    href: https://mp.weixin.qq.com/s/eg5JE38cM2T4XGPY8ZclPw
+    tags:
+      - text: 就业
+        class: tag-category
+      - text: 2022级
+        class: tag-target
 ---
 
 !!! note 通知

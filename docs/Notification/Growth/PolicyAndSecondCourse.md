@@ -90,7 +90,23 @@ cards:
     href: https://mp.weixin.qq.com/s/W6UHt2ymFc2BiKi40dLmFg
     tags:
       - text: 形策2
-        class: tag-category 
+        class: tag-category
+  - ddl: 2026-03-25
+    title: 计算机学院春季毅行活动
+    detail: 3月28日9点曹光彪大楼出发，打卡老和云起、植物园等绝美春光！3月25日报名截止，可组队报名，亦可单人报名分配搭档，更多详情请看右侧推文（内含转发抽奖）
+    href: https://mp.weixin.qq.com/s/-Q40HdO1LqLrvG0ejakLLA
+    tags:
+      - text: 文体活动
+        class: tag-category
+      - text: 二课
+        class: tag-category
+  - ddl: 
+    title: 计算机学院学生动态测评
+    detail: 完成心晴航标相关测评后，上传完成界面截图，审核通过后可以计入1次形策2记点，详细操作请查看推文
+    href: https://mp.weixin.qq.com/s/71Gr04BjMDdZ9jvJfej9Yg
+    tags:
+      - text: 形策2
+        class: tag-category
 ---
 
 !!! note 通知

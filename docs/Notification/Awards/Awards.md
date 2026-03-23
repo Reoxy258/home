@@ -63,6 +63,13 @@ cards:
         class: tag-target
       - text: 研究生
         class: tag-target
+  - ddl: 2026-04-15
+    title: 关于组织申报2026年度“商汤奖学金”的通知
+    detail: 详情可见右侧学院通知~
+    href: http://cspo.zju.edu.cn/2026/0321/c86671a3142972/page.htm
+    tags: 
+      - text: 评奖评优
+        class: tag-category
 ---
 
 !!! note 通知
