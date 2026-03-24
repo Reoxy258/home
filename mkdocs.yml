@@ -158,6 +158,7 @@ theme: # 主题设置
     previous: fontawesome/solid/angle-left # 左下角向前翻页的图标
     next: fontawesome/solid/angle-right # 右下角向后翻页的图标
     # repo: fontawesome/brands/github # 右上角仓库图标
+  custom_dir: overrides
 extra: # 额外设定
   homepage: . # 左上角徽标链接的地址（此处为一个点，也就是主页）
   social: # 联系方式（页面右下角内容）
@@ -170,7 +171,8 @@ extra: # 额外设定
     - icon: fontawesome/solid/paper-plane
       link: mailto:1744523875@qq.com
       name: 联系作者
-
+  comments: true  # 全局开启评论
+  
 extra_javascript: # 额外 JS
   - javascripts/extra.js
 #   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js
