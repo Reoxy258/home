@@ -1,5 +1,12 @@
 ---
 cards:
+  - ddl: 2026-04-02
+    title: 关于申报浙江大学2025-2026学年“浙·时”梦想基金项目的通知
+    detail: 官网通知见箭头
+    href: http://www.xgb.zju.edu.cn/2026/0320/c53400a3142828/page.psp
+    tags:
+      - text: 资助
+        class: tag-category
   - ddl: 2025-12-31
     title: 关于举办"求是助梦·资助回声"第一期征稿评选活动的通知
     detail: 官网通知见箭头

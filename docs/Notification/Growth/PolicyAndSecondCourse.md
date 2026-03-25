@@ -100,7 +100,7 @@ cards:
         class: tag-category
       - text: 二课
         class: tag-category
-  - ddl: 
+  - ddl: 2026-03-24
     title: 计算机学院学生动态测评
     detail: 完成心晴航标相关测评后，上传完成界面截图，审核通过后可以计入1次形策2记点，详细操作请查看推文
     href: https://mp.weixin.qq.com/s/71Gr04BjMDdZ9jvJfej9Yg

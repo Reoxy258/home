@@ -39,6 +39,15 @@ cards:
     tags:
       - text: 暑期课程
         class: tag-category
+  - ddl: 2026-03-31
+    title: 关于开展2026年度“大学生素质训练项目（SQTP）” 工作的通知
+    detail: 如果有提升自我素质提升的想法，或是有素质提升活动希望举办，欢迎有意向者参加于3月31日前完成申报
+    href: http://cspo.zju.edu.cn/2026/0324/c27181a3143692/page.htm
+    tags:
+      - text: SQTP
+        class: tag-category
+      - text: 二课
+        class: tag-category
 ---
 
 !!! note 通知
