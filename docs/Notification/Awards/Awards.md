@@ -70,6 +70,13 @@ cards:
     tags: 
       - text: 评奖评优
         class: tag-category
+  - ddl: 2026-04-05
+    title: 关于评选2024-2025学年浙江大学校友爱心励志奖学金的通知
+    detail: 详情可见右侧学院通知~
+    href: http://cspo.zju.edu.cn/2026/0326/c27183a3144451/page.htm
+    tags: 
+      - text: 评奖评优
+        class: tag-category
 ---
 
 !!! note 通知

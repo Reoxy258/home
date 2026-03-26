@@ -39,6 +39,13 @@ cards:
     tags:
       - text: 暑期课程
         class: tag-category
+  - ddl: 2026-03-27
+    title: 新加坡国立大学计算机学院“3+1+X”联合培养项目
+    detail: 关于申请新加坡国立大学计算机学院“3+1+X”联合培养项目的通知已发布，请有意向的同学尽快申报。
+    href: http://cspo.zju.edu.cn/2026/0326/c27220a3144464/page.htm
+    tags:
+      - text: 联合培养项目
+        class: tag-category
 ---
 
 !!! note 通知

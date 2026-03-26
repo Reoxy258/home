@@ -107,6 +107,27 @@ cards:
     tags:
       - text: 形策2
         class: tag-category
+  - ddl:
+    title: “心晴航标”心理测试
+    detail: 完成测评后上传界面截图至问卷：https://form.zju.edu.cn/#/dform/genericForm/V9ne65wh，审核通过后计入1次形策2记点。详细操作请查看推文。
+    href: https://mp.weixin.qq.com/s/71Gr04BjMDdZ9jvJfej9Yg
+    tags:
+      - text: 形策2
+        class: tag-category
+  - ddl: 2026-04-18
+    title: 2026年浙江大学春季运动会
+    detail: 春季运动会将于2026年4月18日在紫金港校区、玉泉校区的田径场和篮球场同步进行！让我们脱下厚重的外套，换上轻便运动装，在阳光下肆意运动，尽情释放活力。参加春季运动会不仅能获得快乐与成绩，而且体育课可以获得两分的体育竞赛加分哦！本次运动会不接受现场报名，请大家提前在浙大体艺上完成报名。相关的通知详见以下文件：
+    href: chrome-extension://bnjoienjhhclcabnkbhhfndecoipmcdg/background/jgpdf/layout/index.html?file=file:///C:/Users/86185/Desktop/%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A62026%E5%B9%B4%E6%98%A5%E5%AD%A3%E8%BF%90%E5%8A%A8%E4%BC%9A%E7%AB%9E%E8%B5%9B%E8%A7%84%E7%A8%8B(1).pdf
+    tags:
+      - text: 运动会
+        class: tag-category
+  - ddl: 2026-03-30
+    title: “求是大讲堂”通识课程第23讲报名
+    detail: 于君教授讲座“是护卫还是帮凶？——揭秘肠道微生态与消化系统肿瘤”
+    href: https://mp.weixin.qq.com/s/r1tjAxvwVsq2n0hf0bnp7A
+    tags:
+      - text: 求是大讲堂
+        class: tag-category
 ---
 
 !!! note 通知
