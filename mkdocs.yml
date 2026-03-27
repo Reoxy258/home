@@ -171,7 +171,12 @@ extra: # 额外设定
     - icon: fontawesome/solid/paper-plane
       link: mailto:1744523875@qq.com
       name: 联系作者
-  comments: true  # 全局开启评论
+  comments: true  # 开启评论
+  giscus:
+    repo: ""        # 留空
+    repo_id: ""     # 留空
+    category: ""    # 留空
+    category_id: "" # 留空
   
 extra_javascript: # 额外 JS
   - javascripts/extra.js
