@@ -107,6 +107,25 @@ cards:
     tags:
       - text: 形策2
         class: tag-category
+  - ddl: 2026-03-31
+    title: 教室使用满意度调查
+    detail: 问卷见箭头
+    href: https://v.wjx.cn/vm/PUtUqxf.aspx
+    tags:
+  - ddl: 2026-04-17
+    title: 形策二补充申报
+    detail: 以班级为单位4月17日前将补充申报内容发送至对应邮箱，链接见右侧
+    href: https://mp.weixin.qq.com/s/71Gr04BjMDdZ9jvJfej9Yg
+    tags:
+      - text: 形策2
+        class: tag-category
+  - ddl: 2026-04-01
+    title: 高雅艺术进校园越剧折子戏专场，五部经典演绎越韵悲欢
+    detail: 抢票链接见右侧
+    href: http://cspo.zju.edu.cn/2026/0324/c27181a3143692/page.htm
+    tags:
+      - text: 文体
+        class: tag-category
 ---
 
 !!! note 通知

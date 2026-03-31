@@ -48,6 +48,13 @@ cards:
         class: tag-category
       - text: 二课
         class: tag-category
+  - ddl: 2026-04-05
+    title: 关于2026年春夏学期开展2026-2027学年学生体质健康测试工作的通知
+    detail: 具体通知见右侧
+    href: https://mp.weixin.qq.com/s/TAYv4CGcFzKD5XyZXUAmgw
+    tags:
+      - text: 体测
+        class: tag-category
 ---
 
 !!! note 通知
