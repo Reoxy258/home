@@ -142,6 +142,15 @@ cards:
     tags:
       - text: 求是大讲堂
         class: tag-category
+  - ddl: 2026-03-29
+    title: 玉泉花会，春日的热情邀约
+    detail: 3月29日9点30到14点30，我们将于浙江大学玉泉校区曹光彪科技大楼前举行玉泉花会，（参与可获得0.15美育二课分），趣味游戏，春日打卡，等你解锁！详细操作请查看推文
+    href: https://mp.weixin.qq.com/s/NYK1wtVRr2hvliJq9HB3sA
+    tags:
+      - text: 美育二课
+        class: tag-category
+      - text: 文体
+        class: tag-category
 ---
 
 !!! note 通知
