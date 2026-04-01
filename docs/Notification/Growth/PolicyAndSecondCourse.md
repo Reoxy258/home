@@ -100,13 +100,21 @@ cards:
         class: tag-category
       - text: 二课
         class: tag-category
-  - ddl: 
+  - ddl: 2026-03-24
     title: 计算机学院学生动态测评
     detail: 完成心晴航标相关测评后，上传完成界面截图，审核通过后可以计入1次形策2记点，详细操作请查看推文
     href: https://mp.weixin.qq.com/s/71Gr04BjMDdZ9jvJfej9Yg
     tags:
       - text: 形策2
         class: tag-category
+  - ddl: 2026-03-31
+    title: 教室使用满意度调查
+    detail: 问卷见箭头
+    href: https://v.wjx.cn/vm/PUtUqxf.aspx
+    tags:
+  - ddl: 2026-04-17
+    title: 形策二补充申报
+    detail: 以班级为单位4月17日前将补充申报内容发送至对应邮箱，链接见右侧
   - ddl:
     title: “心晴航标”心理测试
     detail: 完成测评后上传界面截图至问卷：https://form.zju.edu.cn/#/dform/genericForm/V9ne65wh，审核通过后计入1次形策2记点。详细操作请查看推文。
@@ -114,6 +122,12 @@ cards:
     tags:
       - text: 形策2
         class: tag-category
+  - ddl: 2026-04-01
+    title: 高雅艺术进校园越剧折子戏专场，五部经典演绎越韵悲欢
+    detail: 抢票链接见右侧
+    href: http://cspo.zju.edu.cn/2026/0324/c27181a3143692/page.htm
+    tags:
+      - text: 文体
   - ddl: 2026-04-18
     title: 2026年浙江大学春季运动会
     detail: 春季运动会将于2026年4月18日在紫金港校区、玉泉校区的田径场和篮球场同步进行！让我们脱下厚重的外套，换上轻便运动装，在阳光下肆意运动，尽情释放活力。参加春季运动会不仅能获得快乐与成绩，而且体育课可以获得两分的体育竞赛加分哦！本次运动会不接受现场报名，请大家提前在浙大体艺上完成报名。相关的通知详见以下文件：
