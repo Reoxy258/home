@@ -48,6 +48,20 @@ cards:
         class: tag-category
       - text: 二课
         class: tag-category
+  - ddl: 2026-04-05
+    title: 关于2026年春夏学期开展2026-2027学年学生体质健康测试工作的通知
+    detail: 具体通知见右侧
+    href: https://mp.weixin.qq.com/s/TAYv4CGcFzKD5XyZXUAmgw
+    tags:
+      - text: 体测
+        class: tag-category
+  - ddl: 2026-03-27
+    title: 新加坡国立大学计算机学院“3+1+X”联合培养项目
+    detail: 关于申请新加坡国立大学计算机学院“3+1+X”联合培养项目的通知已发布，请有意向的同学尽快申报。
+    href: http://cspo.zju.edu.cn/2026/0326/c27220a3144464/page.htm
+    tags:
+      - text: 联合培养项目
+        class: tag-category
 ---
 
 !!! note 通知
