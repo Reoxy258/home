@@ -1,0 +1,29 @@
+<!-- 只有当 mkdocs.yml 中配置了 repo 时才渲染，防止报错 -->
+{% if config.extra.giscus.repo %}
+<hr>
+<h2 id="__comments">评论</h2>
+<script src="https://giscus.app/client.js"
+        data-repo="{{ config.extra.giscus.repo }}"
+        data-repo-id="{{ config.extra.giscus.repo_id }}"
+        data-category="{{ config.extra.giscus.category }}"
+        data-category-id="{{ config.extra.giscus.category_id }}"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
+
+<script>
+  var palette = __md_get("__palette")
+  if (palette && typeof palette.color === "object") {
+    var theme = palette.color.scheme === "slate" ? "dark" : "light"
+    var instruction = document.querySelector("script[src^='https://giscus.app/client.js']")
+    if (instruction) instruction.setAttribute("data-theme", theme)
+  }
+</script>
+{% endif %}

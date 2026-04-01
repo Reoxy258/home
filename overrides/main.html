@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {{ super() }}
+
+  {# 逻辑判断：只有在文章头部声明了 comments: true 才会执行下面的 include #}
+  {% if page.meta.comments %}
+    {% include "comments.html" %}
+  {% endif %}
+{% endblock %}
