@@ -8,10 +8,6 @@
 - [李航奇的笔记](https://www.yuque.com/u49577022/uiv31n?#) <font style="color: #808080">CS231n 深度学习+CV基础 中文笔记</font>
 - [龙雨时的笔记](https://autonomierlong.github.io/Notes/) <font style="color: #808080">CS231n+Papers+GAMES101: 现代计算机图形学入门</font>
 
-
-## 在线课程推荐
-
-
 ## 学习资源
 
 - 推荐书籍

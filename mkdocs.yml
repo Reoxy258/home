@@ -240,10 +240,6 @@ nav:
       - 形策二课: Notification/Growth/PolicyAndSecondCourse.md
       - 学业科研: Notification/Research/SchoolworkResearch.md
       - 就业发展: Notification/Career/Career.md
-  - 意见反馈:
-      - 概览: 意见反馈/index.md
-      - 如何提交ISSUE: 意见反馈/ISSUE.md
-
   - 知识共享:
       - 概览: 知识共享/index.md
       - 培养方案: 
@@ -252,7 +248,8 @@ nav:
           - 信息安全: 知识共享/培养方案/信息安全/is_site.md
           - 工业设计: 知识共享/培养方案/工业设计/id_site.md
           - 人工智能: 知识共享/培养方案/人工智能/ai.md
-      - 个人笔记:
-          - 课程学习笔记: 资源分享/个人笔记/example.md
-          - 课外学习笔记: 知识共享/课外学习/example.md
-      - 个人项目: 资源分享/个人项目/example.md
+      - 课程学习: 知识共享/课程笔记/example.md
+      - 课外学习: 知识共享/课外学习/example.md
+  - 答疑解惑:
+      - 概览: 答疑解惑/index.md
+      - 常见问题: 答疑解惑/常见问题.md
