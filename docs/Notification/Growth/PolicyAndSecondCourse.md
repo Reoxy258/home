@@ -151,6 +151,13 @@ cards:
         class: tag-category
       - text: 文体
         class: tag-category
+  - ddl: 
+    title: 消防安全隐患集中整治
+    detail: 收到校安保处通知，决定4月在全校开展消防安全隐患集中整治工作，相关通知请大家知悉，通知链接戳箭头。
+    href: https://zhfw.zju.edu.cn/2026/0402/c5074a3147733/page.htm 
+    tags:
+      - text: 安全通知
+        class: tag-category
 ---
 
 !!! note 通知
