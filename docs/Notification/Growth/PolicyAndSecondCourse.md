@@ -151,6 +151,16 @@ cards:
         class: tag-category
       - text: 文体
         class: tag-category
+  - ddl: 2026-04-09
+    title: 【二三课】关于2025-2026学年春学期第二课堂、第三课堂申报和审核的通知
+    detail: 请于4月9日17:00前在素质拓展平台（http://sztz.zju.edu.cn）对已经参与但还未申报过的二课、三课项目进行网上申报。
+    href: http://cspo.zju.edu.cn/2026/0407/c27178a3148660/page.psp
+    tags:
+      - text: 二课
+        class: tag-category
+      - text: 三课
+        class: tag-category
+  
 ---
 
 !!! note 通知

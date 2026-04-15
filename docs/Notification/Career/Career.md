@@ -16,6 +16,14 @@ cards:
     tags:
       - text: 入伍
         class: tag-category
+  - ddl: 2026-04-11
+    title: 《PG 赋能·开源共筑·智创未来——PostgreSQL中文社区走进浙江大学》
+    detail: 时间：2026年04月11日13:30-17:30
+      地点：杭州市西湖区三墩产学研发展服务中心6楼多功能厅（杭州市西湖区紫荆花北路188号C座6楼）,报名链接见右侧
+    href: https://huodongxing.com/event/1854447001900https://mp.weixin.qq.com/s/eg5JE38cM2T4XGPY8ZclPw
+    tags:
+      - text: 就业
+        class: tag-category
   - ddl: 
     title: 大学生志愿服务西部计划
     detail: 请有意愿加入“西部计划”的同学加入钉钉内部群（171840011769），后续将开展相关宣讲！相关推文见右侧箭头
