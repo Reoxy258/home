@@ -167,7 +167,14 @@ cards:
         class: tag-category
       - text: 三课
         class: tag-category
-  
+  - ddl: 2026-04-17
+    title: 浙江大学2026春季运动会启动报名
+    detail: 青春无畏，运动飞扬！浙江大学2026春季运动会启动报名啦
+    href: https://mp.weixin.qq.com/s/khUIx-gOkIulZs5xZbPgbA?scene=1
+    tags:
+      - text: 二课
+        class: 文体活动
+
 ---
 
 !!! note 通知
