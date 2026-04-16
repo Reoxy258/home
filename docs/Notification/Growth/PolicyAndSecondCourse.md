@@ -172,8 +172,8 @@ cards:
     detail: 青春无畏，运动飞扬！浙江大学2026春季运动会启动报名啦
     href: https://mp.weixin.qq.com/s/khUIx-gOkIulZs5xZbPgbA?scene=1
     tags:
-      - text: 二课
-        class: 文体活动
+      - text: 文体活动
+        class: tag-category
 
 ---
 
