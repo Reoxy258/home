@@ -94,6 +94,13 @@ cards:
     tags: 
       - text: 学代会
         class: tag-category
+  - ddl: 2026-05-07
+    title: ​关于评选2026年“朋辈学业辅导之星”和“朋辈学业辅导优秀团队”的通知
+    detail: 获评校级劳动类荣誉称号可加学年标兵评选中劳动实践分数，请符合条件有意愿的同学积极参与报名~【报名的同学填写对应附件，5月7日前钉钉发送给赵宇飞老师】通知链接在右侧
+    href: http://www.xgb.zju.edu.cn/2026/0417/c53018a3152899/page.psp
+    tags:
+      - text: 评奖评优
+        class: tag-category
 ---
 
 !!! note 通知
