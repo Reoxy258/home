@@ -35,12 +35,12 @@ cards:
         class: tag-category
       - text: 第三课堂
         class: tag-category   
-  - ddl: 
-    title: 毕业论文（设计）、 毕业设计（论文）各专业对应任课老师
-    detail: 毕业论文（设计）、 毕业设计（论文）各专业对应的任课老师如下：计算机科学与技术专业（邢卫老师、课号：2025-2026-2-CS4222M-0092031-1）、计算机科学与技术图灵班（邢卫老师、课号：2025-2026-2-CS4222M-0092031-4）、软件工程（高艺老师）、信息安全专业（包括图灵班）（王小航老师）、人工智能图灵班（杨洋老师）、工业设计（张克俊老师）。计算机专业毕业论文2个班：容量大的为计算机专业非图灵班、容量少的为计算机专业图灵班。
-    href: 
+  - ddl: 2026-04-24
+    title: 25-26学年春夏本科第四轮选课
+    detail: 选课范围是夏学期课程
+    href: https://zdbk.zju.edu.cn/jwglxt/xtgl/xwgl_ckXw.html?xwbh=4F770CB2956E3C85E0632AB3CA0A3604&doType=save
     tags: 
-      - text: 毕业设计/论文
+      - text: 选课
         class: tag-category
       - text: 重要
         class: tag-priority          
