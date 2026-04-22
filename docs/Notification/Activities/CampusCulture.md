@@ -57,7 +57,7 @@ cards:
         class: tag-category
 
   - ddl: 2026-06-11/06-13   
-    title: 毕业晚会  
+    title:毕业晚会  
     detail:毕业晚会是展现风采、集体欢乐的机会，不要求高质量，只是为了满足大家登上舞台的心愿！欢迎大家报名节目，或者有兴趣参与导演组、主持人、礼仪的同学也欢迎报名哦！   
     href: https://mp.weixin.qq.com/s/Ybhd7bh0sE5b0pXOF2ftMg 
     tags:      
