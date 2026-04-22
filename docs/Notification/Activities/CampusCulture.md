@@ -56,15 +56,13 @@ cards:
       - text: 思政微课大赛
         class: tag-category
 
-  - ddl:2026-06-11/06-13   
-    title:毕业晚会  
-    detail:毕业晚会是展现风采、集体欢乐的机会，不要求高质量，只是为了满足大家登上舞台的心愿！欢迎大家报名节目，或者有兴趣参与导演组、主持人、礼仪的同学也欢迎报名哦！   
-    href: https://mp.weixin.qq.com/s/Ybhd7bh0sE5b0pXOF2ftMg 
+  - ddl: 2026-03-27    
+    title: 2026年度浙江大学思政微课大赛    
+    detail: 请有意向参赛的同学于2026年3月27日23:59前将参赛报名表（附件1）、微课课件和微课视频、汇总表（附件2）打包发送至houyiting@zju.edu.cn，学院将择优推荐参赛。    
+    href:  http://cspo.zju.edu.cn/2026/0306/c27178a3138040/page.htm    
     tags:      
-      - text: 毕业晚会        
+      - text: 思政微课大赛        
         class: tag-category
-
-
 ---
 
 !!! note 通知
